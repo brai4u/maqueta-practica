@@ -280,3 +280,58 @@ a, a:hover, a:active, a:visited{
     border-top: 1.5px solid #C3C3C3;
     border-bottom:1px solid white
 }
+
+@media (max-width: 992px) {
+	.services-p{
+		height: auto;
+		width: auto;
+	}
+
+	.separador{
+		width: 174px;
+	}
+
+	.services a{
+		margin-left: 52px;
+	}
+
+	.works img{
+		margin-bottom: 20px;
+	}
+
+	.post-img{
+		margin-left: 16px;
+	}
+
+	.data{
+		margin-bottom: 20px;
+	}
+
+	.post{
+		padding: 0;
+	}
+
+	.player{
+		width: 100%;
+		font-size: 23px;
+	}
+
+	.description{
+		width: 100%;
+		height: auto;
+	}
+
+	.player-avatar {
+		width: 100%;
+		margin-top: 27px;
+	}
+
+	.post-title{
+		font-size: 19px;
+	}
+
+	.post-container{
+		font-size: 19px;
+		font-size: 16px;
+	}
+}
